@@ -1,0 +1,5 @@
+- 👋 Olá, sou o @Gabrielgalvimxx
+- 👀 Tenho interesse em Programação.
+- 🌱 Atualmente estou aprendendo Python, Java, HTML, etc.
+- 💞️ Estou procurando colaborar em projetos de programação.
+- 📫 Como me encontrar https://www.linkedin.com/in/gabriel1922almeida
