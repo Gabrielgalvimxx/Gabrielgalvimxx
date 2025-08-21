@@ -16,13 +16,9 @@
 - Open Source e comunidades de colaboração
 
 🌱 Atualmente aprendendo
-
 - Python (principais frameworks: Flask, Django)
-
 - Java (estruturas de dados e projetos acadêmicos)
-
 - HTML & CSS (Web responsivo)
-
 - Lógica de Programação e algoritmos
 
 💼 Projetos em destaque
