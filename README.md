@@ -1,6 +1,9 @@
 👋 Olá, eu sou o Gabriel Galvim
+
 🎓 Estudante de Ciência da Computação
+
 💻 Apaixonado por tecnologia e desenvolvimento de software
+
 🚀 Buscando contribuir e crescer na comunidade tech
 
 👀 Interesses
