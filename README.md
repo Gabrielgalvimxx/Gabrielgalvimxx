@@ -32,7 +32,6 @@ Aplicações que impactem positivamente a sociedade
 📫 Onde me encontrar
 LinkedI: https://www.linkedin.com/in/gabrielgalvim/
 Email: almeida99122@gmail.com
-Outros: Adicione seu portfólio ou Medium se tiver
 
 ✨ Sobre mim
 Curioso, estudioso e sempre disposto a aprender coisas novas
