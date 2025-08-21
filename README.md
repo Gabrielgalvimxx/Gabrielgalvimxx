@@ -1,6 +1,9 @@
 👋 Olá, eu sou o Gabriel Galvim
+
 🎓 Estudante de Ciência da Computação
+
 💻 Apaixonado por tecnologia e desenvolvimento de software
+
 🚀 Buscando contribuir e crescer na comunidade tech
 
 👀 Interesses
@@ -24,7 +27,6 @@ HTML & CSS (Web responsivo)
 Lógica de Programação e algoritmos
 
 💼 Projetos em destaque
-
 Sistema de Gestão Acadêmica – CRUD completo em Java + MySQL
 
 Dashboard de Análise de Dados – Visualização usando Python (pandas, matplotlib)
