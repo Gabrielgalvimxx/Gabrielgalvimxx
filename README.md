@@ -30,7 +30,7 @@ Desenvolvimento web e APIs
 Aplicações que impactem positivamente a sociedade
 
 📫 Onde me encontrar
-LinkedIn: gabrielgalvim
+LinkedI: https://www.linkedin.com/in/gabrielgalvim/
 Email: almeida99122@gmail.com
 Outros: Adicione seu portfólio ou Medium se tiver
 
